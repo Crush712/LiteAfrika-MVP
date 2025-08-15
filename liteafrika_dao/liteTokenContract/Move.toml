@@ -1,0 +1,13 @@
+[package]
+name = "lyt_token"
+version = "0.0.1"
+authors = ["Your Name"]
+
+[addresses]
+lyt_token = "0x0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "main" }
+MoveStdlib = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/move-stdlib", rev = "main" }
+
+[dev-dependencies]
