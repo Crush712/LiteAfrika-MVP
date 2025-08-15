@@ -1,0 +1,8 @@
+package_id = 0x5c7d2c8ff6c4aac80509ee49e9498d6c6aae73061884aca7a65df70dffad78a7
+version = 1
+
+Digest = Ha8NNtzymrri5rE8rEL45rzCEUxbFr7MUihkL72zj3ge
+
+modules = HubRegistry
+
+owner = 0xd82b3151a15b36aee3859449df041845f219e8b557914d5776f9d468fe35dd20
